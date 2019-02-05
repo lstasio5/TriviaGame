@@ -5,3 +5,14 @@ body {
     color: #777777;
     background: url("../images/question.jpg");
   }
+
+  .container1 {
+    background-color: blanchedalmond;
+    float: left;
+    
+  } 
+
+  #questions {
+    background-color: aliceblue;
+    float: left;
+  }
